@@ -1,6 +1,6 @@
 # testing.academy
 files for my best course ever - test academy
-Chod prec
+Chod prec prosim demon
 
 project content:
 * `bin/ - binaries
